@@ -20,13 +20,13 @@ Hold TQQQ
 
 ## 3. Above Long-term Moving Average
 ### Condition:
-Price of Nasdaq100 Index is above its 169-day simple moving average (sma)
+Price of Nasdaq100 Index is above its 200-day simple moving average (sma)
 ### Action:
 Hold TQQQ (DCA over 2 Days)
 
 ## 4. Above Short-term Moving Average
 ### Condition:
-Price of Nasdaq100 Index is above its 28-day simple moving average (sma)
+Price of Nasdaq100 Index is above its 21-day simple moving average (sma)
 ### Action:
 Hold TQQQ
 
