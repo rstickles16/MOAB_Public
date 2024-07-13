@@ -38,7 +38,7 @@ def add_moab_conditions(
         operator='>',
         ticker_2='^ndx',
         study_2='sma',
-        study_2_period=169
+        study_2_period=200
     )
 
     bt.add_condition(
@@ -48,5 +48,5 @@ def add_moab_conditions(
         operator='>',
         ticker_2='^ndx',
         study_2='sma',
-        study_2_period=28,
+        study_2_period=21,
     )
